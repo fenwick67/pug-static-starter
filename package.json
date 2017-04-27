@@ -1,5 +1,5 @@
 {
-  "main":"index.js",
+  "main":"build.js",
   "dependencies":{
     "pug":"2.x"
   }
