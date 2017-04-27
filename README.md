@@ -1,2 +1,6 @@
 # pug-static-starter
-simple starter project with Pug and JSON5.
+Simple html starter project with Pug.
+
+## instructions
+1. `npm start`
+2. enjoy your html
