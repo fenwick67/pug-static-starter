@@ -2,5 +2,8 @@
   "main":"build.js",
   "dependencies":{
     "pug":"2.x"
+  },
+  "scripts":{
+    "start":"npm install && node build.js"
   }
 }
